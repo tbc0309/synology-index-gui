@@ -2,7 +2,7 @@
 
 ## 界面
 
-![screenshots](https://raw.githubusercontent.com/bc0309/synolgy-index-gui/master/demo.png)
+![screenshots](https://raw.githubusercontent.com/bc0309/synolgy-index-gui/main/demo.png)
 
 ## 编译工具
 apt install gcc-7-aarch64-linux-gnu
