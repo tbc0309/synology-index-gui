@@ -1,4 +1,4 @@
-# synolgy-index-gui
+# synology-index-gui
 
 ## 界面
 
