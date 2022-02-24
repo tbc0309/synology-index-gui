@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>获取Token</title>
+</head>
+ <body onload="getToken()"></body>
+
+<script>
+    function getToken(){
+        let xhr = new XMLHttpRequest();
+        xhr.open("GET","/webman/login.cgi",true);
+        xhr.onload = function(){
+            if(this.status == 200){
+                let arr = JSON.parse(this.responseText);
+                //console.log(arr.SynoToken);
+                window.location="index.cgi" + "?SynoToken=" + arr.SynoToken;
+            }              
+        }
+        xhr.send();
+    }
+</script>
+
+
+

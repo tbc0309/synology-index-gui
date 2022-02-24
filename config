@@ -1,0 +1,10 @@
+{
+        ".url": {
+                "SYNO.SDS.demo.Application": {
+                        "type": "legacy",
+                        "title": "DEMO",
+                        "icon": "images/icon_{0}.png",
+                        "url": "/webman/3rdparty/demo/gettoken.html"
+                }
+        }
+}
