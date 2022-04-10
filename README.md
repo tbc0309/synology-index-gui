@@ -1,5 +1,7 @@
 # synology-index-gui
 
+.c编写：裙下孤魂
+
 ## 界面
 
 ![screenshots](https://github.com/tbc0309/synolgy-index-gui/raw/main/demo.png)
