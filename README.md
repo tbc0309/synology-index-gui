@@ -33,3 +33,7 @@ index.cgi #ui运行文件
 indexv2022.c：修改配置后需要重启套件，适合批量通用
 
 indexv2021.c：修改配置和可以重新启动套件，单独修改
+
+index2024.c.zip：增加注释颜色，支持打开WEB管理界面
+
+![index2024.c.zip](https://github.com/user-attachments/assets/92a880c5-3aad-4f30-97b9-37907ec7e20b)
